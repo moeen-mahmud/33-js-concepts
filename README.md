@@ -118,7 +118,7 @@
 
 ---
 
-## 2. Primitive Types
+## 2. Primitive Types (প্রিমিটিভ টাইপস)
 
 ### রেফারেন্স
 
