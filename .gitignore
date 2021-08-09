@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+#GitHub Cache Folder
+.github
+
+#Main Readme
+README-main.md
+
+#Contribute file
+CONTRIBUTING.md

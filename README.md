@@ -1,50 +1,52 @@
 ﻿<h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
+  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="৩৩ টি ধারণা যা প্রত্যেক জাভাস্ক্রিপ্ট ডেভেলপারের জানা উচিত" width=200"></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  ৩৩ টি ধারণা যা প্রত্যেক জাভাস্ক্রিপ্ট ডেভেলপারের জানা উচিত
   <br><br>
 </h1>
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 [![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
 
-## Introduction
+## ভূমিকা
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+ডেভেলপারগণ যাতে জাভাস্ক্রিপ্টের ধারণাগুলো ভালোভাবে রপ্ত করতে পারে সেই উদ্দেশ্যে এই রিপোজিটরিটি তৈরি করা হয়েছে। এটি যে একেবারেই খুব প্রয়োজন তা না, তবে ভবিষ্যতে এই সংক্রান্ত পড়াশোনার কাজে গাইড হিসেবে কাজ করবে। এটি মূলত [স্টিফেন কার্টিজ](https://twitter.com/stephenthecurt) -এর একটি আর্টিকেলের উপর ভিত্তি করে বানানো। আপনি এটি [এখানে](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) গিয়ে পড়তে পারেন।
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 এটি গিটহাব কর্তৃক [২০১৮ সালে নির্বাচিত শীর্ষ প্রজেক্টগুলোর মধ্যে একটি!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-## Community
+## কমিউনিটি
 
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+আপনি বিনা দ্বিধায় আপনার কোনো রিক্যাপ কিংবা রিভিউ একটি পুল রিকোয়েস্টের লিঙ্কের মাধ্যমে সাবমিট করতে পারেন।
 
-All the translations for this repo will be listed below:
+এই রিপোজিটরির সকল অনুবাদ নিম্ন লিখিত তালিকায় যোগ হবেঃ
 
-- [Albanian](https://github.com/eldrinf/33-js-concepts-albanian.git) — Eldrin Ereqi
-- [Arabic](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
-- [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [Korean](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Spanish](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Turkish](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [Russian](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-- [Tiếng Việt](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Polish](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
-- [Persian](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
-- [Indonesian](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
-- [French](https://github.com/robinmetral/33-concepts-js) — Robin Métral
-- [Hindi](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
-- [Greek](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
-- [Japanese](https://github.com/oimo23/33-js-concepts) — oimo23
-- [German](https://github.com/burhannn/33-js-concepts) — burhannn
-- [Ukrainian](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
-- [Sinhala](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
-- [Italian](https://github.com/Donearm/33-js-concepts) — Gianluca Fiore
+- [আলবেনিয়ান](https://github.com/eldrinf/33-js-concepts-albanian.git) — অ্যালড্রিন অ্যারেক্বী
+- [আরবী](https://github.com/amrsekilly/33-js-concepts) — আমর ইলসেকিলি
+- [চীনা](https://github.com/stephentian/33-js-concepts) — রি তিয়ান
+- [ব্রাজিলীয় পর্তুগিজ](https://github.com/tiagoboeing/33-js-concepts) — তিয়াগো বোয়েইং
+- [কোরিয়ান](https://github.com/yjs03057/33-js-concepts.git) — সুইন লি
+- [স্প্যানিশ](https://github.com/adonismendozaperez/33-js-conceptos) — আদোনিস মেন্দোযা
+- [তুর্কী](https://github.com/ilker0/33-js-concepts) — আইকার দামির
+- [রুশ](https://github.com/gumennii/33-js-concepts) — মিহাইল গামেনি
+- [ভিয়েতনামিজ](https://github.com/nguyentranchung/33-js-concepts) — য়ুয়েন ত্রান চুং
+- [পোলিশ](https://github.com/lip3k/33-js-concepts) — দাভিদ লিপিনস্কি
+- [পারসিক](https://github.com/majidalavizadeh/33-js-concepts) — মজিদ আলাভিযাদেহ
+- [ইন্দোনেশিয়ান](https://github.com/rijdz/33-js-concepts) — রিজযুয়ান সাম্পোয়েরনা
+- [ফরাসি](https://github.com/robinmetral/33-concepts-js) — রবিন মিত্রাল
+- [হিন্দি](https://github.com/vikaschauhan/33-js-concepts) — বিকাশ চৌহান
+- [গ্রীক](https://github.com/DimitrisZx/33-js-concepts) — দিমিত্রিস যারাখানিস
+- [জাপানি](https://github.com/oimo23/33-js-concepts) — oimo23
+- [জার্মান](https://github.com/burhannn/33-js-concepts) — বুরহান
+- [ইউক্রেনিয়ান](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — অ্যান্ড্রু সাভেতচুক
+- [সিংহল](https://github.com/ududsha/33-js-concepts) — উদয় শামেন্দ্র
+- [ইতালিয়ান](https://github.com/Donearm/33-js-concepts) — জিয়ানলুকা ফিয়োরে
 
 ---
 
-## Table of Contents
+## সুচীপত্র
 
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
@@ -82,24 +84,24 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 1. Call Stack
+## 1. Call Stack (কল স্ট্যাক)
 
-### Reference
+### রেফারেন্স
 
 - 📜 [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
-- 📜 [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
-- 📜 [Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi](https://web.archive.org/web/20180701233338/https://www.valentinog.com/blog/js-execution-context-call-stack/)
-- 📜 [What is the JS Event Loop and Call Stack? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
-- 📜 [Understanding Execution Context and Execution Stack in Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
-- 📜 [How JavaScript Works: An Overview of the Engine, the Runtime, and the Call Stack — Alexander Zlatkov](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
-- 📜 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
-- 📜 [How JavaScript Works Under The Hood: An Overview of JavaScript Engine, Heap and, Call Stack — Bipin Rajbhar](https://dev.to/bipinrajbhar/how-javascript-works-under-the-hood-an-overview-of-javascript-engine-heap-and-call-stack-1j5o)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের কল স্ট্যাক (Call Stack) এবং ইভেন্ট লুপ (Event Loop) - গৌরভ পান্ডিয়া](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের কল স্ট্যাক (Call Stack) - চার্লস ফ্রিবর্ন](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
+- 📜 [জাভাস্ক্রিপ্টঃ এক্সেকিউশন কনটেক্সট (Execution Context) কী? কল স্ট্যাক (Call Stack) কাকে বলে? - ভ্যালেন্টিনো জাগলিয়ার্দি](https://web.archive.org/web/20180701233338/https://www.valentinog.com/blog/js-execution-context-call-stack/)
+- 📜 [জাভাস্ক্রিপ্টের ইভেন্ট লুপ (Event Loop) এবং কল স্ট্যাক (Call Stack) কী? - জেস টেলফোর্ড](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের এক্সেকিউশন কন্টেক্সট (Execution Context) এবং এক্সেকিউশন স্ট্যাক (Execution Stack) - সুখজিন্দর অরোরা](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+- 📜 [জাভাস্ক্রিপ্ট কীভাবে কাজ করেঃ ইঞ্জিন, রানটাইম এবং কল স্ট্যাকের একটি ওভারভিউ - আলেক্সান্ডার যলাতকভ](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+- 📜 [জাভাস্ক্রিপ্টের এক্সেকিউশন কন্টেক্সটস (Execution Constext), হোয়িস্টিং (Hoisting), স্কোপস (Scopes) এবং ক্লজিউরস (Closures) এর আল্টিমেট গাইড - টাইলার ম্যাকগিনিস](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+- 📜 [ভেতরে জাভাস্ক্রিপ্ট কীভাবে কাজ করেঃ জাভাস্ক্রিপ্টের ইঞ্জিন (Engine), হিপ (Heap) এবং, কল স্ট্যাক (Call Stack) এর একটি ওভারভিউ - বিপিন রাজভার](https://dev.to/bipinrajbhar/how-javascript-works-under-the-hood-an-overview-of-javascript-engine-heap-and-call-stack-1j5o)
 
-### Videos
+### ভিডিওগুলো
 
 - 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
 - 🎥 [The JS Call Stack Explained In 9 Minutes — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
