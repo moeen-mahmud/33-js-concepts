@@ -1,9 +1,9 @@
 ﻿<h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="৩৩ টি ধারণা যা প্রত্যেক জাভাস্ক্রিপ্ট ডেভেলপারের জানা উচিত" width=200"></a>
+  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="৩৩ টি কনসেপ্ট যা প্রত্যেক জাভাস্ক্রিপ্ট ডেভেলপারের জানা উচিত" width=200"></a>
   <br>
     <br>
-  ৩৩ টি ধারণা যা প্রত্যেক জাভাস্ক্রিপ্ট ডেভেলপারের জানা উচিত
+  ৩৩ টি কনসেপ্ট যা প্রত্যেক জাভাস্ক্রিপ্ট ডেভেলপারের জানা উচিত
   <br><br>
 </h1>
 
@@ -88,7 +88,7 @@
 
 ### রেফারেন্স
 
-- 📜 [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+- 📜 [কল স্ট্যাক (Call Stack) - এমডিএন](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 
 ### আর্টিকেলসমূহ
 
@@ -103,16 +103,16 @@
 
 ### ভিডিওগুলো
 
-- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
-- 🎥 [The JS Call Stack Explained In 9 Minutes — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
-- 🎥 [JavaScript Execution Stack — Codecademy](https://www.youtube.com/watch?v=jT0USJeNFEA)
-- 🎥 [What is the Call Stack? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
-- 🎥 [The Call Stack — Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
-- 🎥 [Understanding JavaScript Execution — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
-- 🎥 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
-- 🎥 [What the heck is the event loop anyway? — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- 🎥 [La PILA DE EJECUCIÓN (Call Stack) de JavaScript — La Cocina del Código](https://www.youtube.com/watch?v=ygA5U7Wgsg8)
-- 🎥 [How JavaScript Code is executed? ❤️& Call Stack](https://www.youtube.com/watch?v=iLWTnMzWtj4&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- 🎥 [জাভাস্ক্রিপ্টঃ কল স্ট্যাকের (Call Stack) বিবৃতি - কোডিং ব্লকস ইন্ডিয়া](https://www.youtube.com/watch?v=w6QGEiQceOM)
+- 🎥 [৯ মিনিটে জাভাস্ক্রিপ্ট কল স্ট্যাক (Call Stack) এর ব্যাখ্যা - কল্ট স্টিলি](https://www.youtube.com/watch?v=W8AeMrVtFLY)
+- 🎥 [জাভাস্ক্রিপ্টের এক্সেকিউশন স্ট্যাক (Execution Stack) - কোড অ্যাকাডেমি](https://www.youtube.com/watch?v=jT0USJeNFEA)
+- 🎥 [কল স্ট্যাক (Call Stack) কাকে বলে? - এরিক ট্রব](https://www.youtube.com/watch?v=w7QWQlkLY_s)
+- 🎥 [কল স্ট্যাক (The Call Stack) - কেভিন ড্রুম](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+- 🎥 [সহজভাবে জাভাস্ক্রিপ্টের এক্সেকিউশন (Execution) - কোডস্মিথ](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+- 🎥 [জাভাস্ক্রিপ্টের এক্সেকিউশন কন্টেক্সটস (Execution Constext), হোয়িস্টিং (Hoisting), স্কোপস (Scopes) এবং ক্লজিউরস (Closures) এর আল্টিমেট গাইড - টাইলার ম্যাকগিনিস](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
+- 🎥 [ইভেন্ট লুপ (Event Loop) জিনিসটা আসলে কী!? - ফিলিপ রবার্টস](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- 🎥 [জাভাস্ক্রিপ্টের কল স্ট্যাক (Call Stack) - দ্য কিচেন অফ কোড](https://www.youtube.com/watch?v=ygA5U7Wgsg8)
+- 🎥 [কীভাবে জাভাস্ক্রিপ্টের কোড কাজ করে? ❤️& কল স্ট্যাক (Call Stack)](https://www.youtube.com/watch?v=iLWTnMzWtj4&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -120,31 +120,31 @@
 
 ## 2. Primitive Types
 
-### Reference
+### রেফারেন্স
 
-- 📜 [JavaScript data types and data structures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
+- 📜 [জাভাস্ক্রিপ্টের ড্যাটা টাইপস এবং ড্যাটা স্ট্রাকচার - এমডিএন](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
 
 ### Articles
 
-- 📜 [How numbers are encoded in JavaScript — Dr. Axel Rauschmayer](http://2ality.com/2012/04/number-encoding.html)
-- 📜 [What You Need to Know About JavaScript Number Type — Max Wizard K](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
-- 📜 [What Every JavaScript Developer Should Know About Floating Point Numbers — Chewxy](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
-- 📜 [The Secret Life of JavaScript Primitives — Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
-- 📜 [Primitive Types — Flow](https://flow.org/en/docs/types/primitives/)
-- 📜 [(Not) Everything in JavaScript is an Object — Daniel Li](https://dev.to/d4nyll/not-everything-in-javascript-is-an-object)
-- 📜 [JavaScript data types and data structures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
-- 📜 [Diving Deeper in JavaScripts Objects — Arfat Salman](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
-- 📜 [The differences between Object.freeze() vs Const in JavaScript — Bolaji Ayodeji](https://medium.com/@bolajiayodeji/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c)
+- 📜 [কীভাবে সংখ্যাগুলো জাভাস্ক্রিপ্টের এনকোডেড হয়ে থাকে - ড. অ্যাক্সেল রশ্চম্যায়ার](http://2ality.com/2012/04/number-encoding.html)
+- 📜 [জাভাস্ক্রিপ্টের নাম্বার টাইপস প্রসঙ্গে যা জানা উচিত - ম্যাক্স উইজার্ড কে](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
+- 📜 [দশমিক সংখ্যা প্রসঙ্কে প্রত্যেক জাভাস্ক্রিপ্ট ডেভেলপারের যা জানা উচিত - Chewxy](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
+- 📜 [জাভাস্ক্রিপ্টের প্রিমিটিভস টাইপসের লুকোনো তথ্য - অ্যাগনাস ক্রল](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
+- 📜 [প্রিমিটিভস টাইপ - ফ্লো](https://flow.org/en/docs/types/primitives/)
+- 📜 [জাভাস্ক্রিপ্টের সকল কিছুই অবজেক্ট (নয়) - ড্যানিয়েল লি](https://dev.to/d4nyll/not-everything-in-javascript-is-an-object)
+- 📜 [জাভাস্ক্রিপ্টের ড্যাটা টাইপস এবং ড্যাটা স্ট্রাকচার - এমডিএন](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
+- 📜 [জাভাস্ক্রিপ্টের অবজেক্ট প্রসঙ্গে বিশদ আলোচনা — আরফাত সালমান](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
+- 📜 [জাভাস্ক্রিপ্টের Object.freeze() বনাম Const এর মধ্যে পার্থক্যসমূহ - বোলাজি আয়োদেজি](https://medium.com/@bolajiayodeji/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c)
 
 ### Videos
 
-- 🎥 [JavaScript Reference vs Primitive Types — Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
-- 🎥 [JavaScript Primitive Types — Simon Sez IT](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
-- 🎥 [Value Types and Reference Types in JavaScript — Programming with Mosh](https://www.youtube.com/watch?v=e-_mDyqm2oU)
-- 🎥 [JavaScript Primitive Data Types — Avelx](https://www.youtube.com/watch?v=qw3j0A3DIzQ)
-- 🎥 [Everything you never wanted to know about JavaScript numbers — Bartek Szopka](https://www.youtube.com/watch?v=MqHDDtVYJRI)
-- 🎥 [What are variables in Javascript? — JS For Everyone](https://www.youtube.com/watch?v=B4Bbmei_thw)
-- 🎥 [TIPOS DE DATOS PRIMITIVOS en JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=cC65D2q5f8I)
+- 🎥 [জাভাস্ক্রিপ্টের রেফারেন্স বনাম প্রিমিটিভ টাইপস - অ্যাকাডেমাইন্ড](https://www.youtube.com/watch?v=9ooYYRLdg_g)
+- 🎥 [জাভাস্ক্রিপ্টের প্রিমিটিভ টাইপ - সাইমন সেজ আইটি](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
+- 🎥 [জাভাস্ক্রিপ্টের ভ্যালু টাইপস এবং রেফারেন্স টাইপস - প্রোগ্রামিং উইথ মশ](https://www.youtube.com/watch?v=e-_mDyqm2oU)
+- 🎥 [জাভাস্ক্রিপ্টের প্রিমিটিভ ড্যাটা টাইপস - Avelx](https://www.youtube.com/watch?v=qw3j0A3DIzQ)
+- 🎥 [জাভাস্ক্রিপ্টের সংখ্যা সমন্ধ্যে যা কখনই জানতে চাওয়া হয় নি - বারটেক যুপকা](https://www.youtube.com/watch?v=MqHDDtVYJRI)
+- 🎥 [জাভাস্ক্রিপ্টে ভ্যারিয়েবল কাকে বলে? - জেএস ফর এভরিওয়ান](https://www.youtube.com/watch?v=B4Bbmei_thw)
+- 🎥 [জাভাস্ক্রিপ্টের প্রিমিটিভ ড্যাটা টাইপস - দ্য কিচেন কোড](https://www.youtube.com/watch?v=cC65D2q5f8I)
 
 **[⬆ Back to Top](#table-of-contents)**
 
