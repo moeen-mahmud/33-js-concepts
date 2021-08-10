@@ -114,7 +114,7 @@
 - 🎥 [জাভাস্ক্রিপ্টের কল স্ট্যাক (Call Stack) - দ্য কিচেন অফ কোড](https://www.youtube.com/watch?v=ygA5U7Wgsg8)
 - 🎥 [কীভাবে জাভাস্ক্রিপ্টের কোড কাজ করে? ❤️& কল স্ট্যাক (Call Stack)](https://www.youtube.com/watch?v=iLWTnMzWtj4&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
@@ -124,7 +124,7 @@
 
 - 📜 [জাভাস্ক্রিপ্টের ড্যাটা টাইপস এবং ড্যাটা স্ট্রাকচার - এমডিএন](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
 
-### Articles
+### আর্টিকেলসমূহ
 
 - 📜 [কীভাবে সংখ্যাগুলো জাভাস্ক্রিপ্টের এনকোডেড হয়ে থাকে - ড. অ্যাক্সেল রশ্চম্যায়ার](http://2ality.com/2012/04/number-encoding.html)
 - 📜 [জাভাস্ক্রিপ্টের নাম্বার টাইপস প্রসঙ্গে যা জানা উচিত - ম্যাক্স উইজার্ড কে](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
@@ -136,7 +136,7 @@
 - 📜 [জাভাস্ক্রিপ্টের অবজেক্ট প্রসঙ্গে বিশদ আলোচনা — আরফাত সালমান](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
 - 📜 [জাভাস্ক্রিপ্টের Object.freeze() বনাম Const এর মধ্যে পার্থক্যসমূহ - বোলাজি আয়োদেজি](https://medium.com/@bolajiayodeji/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c)
 
-### Videos
+### ভিডিওগুলো
 
 - 🎥 [জাভাস্ক্রিপ্টের রেফারেন্স বনাম প্রিমিটিভ টাইপস - অ্যাকাডেমাইন্ড](https://www.youtube.com/watch?v=9ooYYRLdg_g)
 - 🎥 [জাভাস্ক্রিপ্টের প্রিমিটিভ টাইপ - সাইমন সেজ আইটি](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
@@ -146,57 +146,57 @@
 - 🎥 [জাভাস্ক্রিপ্টে ভ্যারিয়েবল কাকে বলে? - জেএস ফর এভরিওয়ান](https://www.youtube.com/watch?v=B4Bbmei_thw)
 - 🎥 [জাভাস্ক্রিপ্টের প্রিমিটিভ ড্যাটা টাইপস - দ্য কিচেন কোড](https://www.youtube.com/watch?v=cC65D2q5f8I)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
-## 3. Value Types and Reference Types
+## 3. Value Types and Reference Types (ভ্যালু টাইপস এবং রেফারেন্স টাইপস)
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [Explaining Value vs. Reference in Javascript — Arnav Aggarwal](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
-- 📜 [Primitive Types & Reference Types in JavaScript — Bran van der Meer](https://gist.github.com/branneman/7fb06d8a74d7e6d4cbcf75c50fec599c)
-- 📜 [Value Types, Reference Types and Scope in JavaScript — Ben Aston](https://medium.com/@benastontweet/lesson-1b-javascript-fundamentals-380f601ba851)
-- 📜 [Back to roots: JavaScript Value vs Reference — Miro Koczka](https://medium.com/dailyjs/back-to-roots-javascript-value-vs-reference-8fb69d587a18)
-- 📜 [Grasp “By Value” and “By Reference” in JavaScript — Léna Faure](https://hackernoon.com/grasp-by-value-and-by-reference-in-javascript-7ed75efa1293)
-- 📜 [JavaScript Reference and Copy Variables — Vítor Capretz](https://hackernoon.com/javascript-reference-and-copy-variables-b0103074fdf0)
-- 📜 [JavaScript Primitive vs Reference Values](http://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
-- 📜 [JavaScript by Reference vs. by Value — nrabinowitz](https://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value)
-- 📜 [JavaScript Interview Prep: Primitive vs. Reference Types — Mike Cronin](https://dev.to/mostlyfocusedmike/javascript-interview-prep-primitive-vs-reference-types-3o4f)
+- 📜 [জাভাস্ক্রিপ্টের ভাল্যু (Value) বনাম রেফারেন্সের (Reference) ব্যাখ্যা - অর্ণব আগারওয়াল](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+- 📜 [জাভাস্ক্রিপ্টের প্রিমিটিভ (Primitive) টাইপস এবং রেফারেন্স (Reference) টাইপস - ব্র্যান ভন ডার মিয়ার](https://gist.github.com/branneman/7fb06d8a74d7e6d4cbcf75c50fec599c)
+- 📜 [জাভাস্ক্রিপ্টের ভ্যালু (Value) টাইপস, রেফারেন্স (Reference) টাইপস এবং স্কোপ (Scope) - বেন অ্যাস্টন](https://medium.com/@benastontweet/lesson-1b-javascript-fundamentals-380f601ba851)
+- 📜 [সমূলে ফেরতঃ জাভাস্ক্রিপ্টের ভ্যালু (Value) বনাম রেফারেন্স (Reference) - মিরো কযকা](https://medium.com/dailyjs/back-to-roots-javascript-value-vs-reference-8fb69d587a18)
+- 📜 [জাভাস্ক্রিপ্টের "By Value" এবং "By Reference" সম্পর্কে আরোও একবার উপলব্ধি - লিনা ফওরে](https://hackernoon.com/grasp-by-value-and-by-reference-in-javascript-7ed75efa1293)
+- 📜 [জাভাস্ক্রিপ্টের রেফারেন্স (Reference) এবং কপি ভ্যারিয়েবলস (Copy Variables) - ভিটর কাপ্রেতয](https://hackernoon.com/javascript-reference-and-copy-variables-b0103074fdf0)
+- 📜 [জাভাস্ক্রিপ্টের প্রিমিটিভ (Primitive) বনাম রেফারেন্স (Reference) ভ্যাল্যুস](http://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
+- 📜 [জাভাস্ক্রিপ্টের বাই রেফারেন্স (By Reference) বনাম বাই ভ্যাল্যু (By Value) - nrabinowitz](https://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value)
+- 📜 [জাভাস্ক্রিপ্ট ইন্টারভিউর প্রস্তুতিঃ প্রিমিটিভ (Primitive) বনাম রেফারেন্স (Reference) টাইপস - মাইক ক্রোনিন](https://dev.to/mostlyfocusedmike/javascript-interview-prep-primitive-vs-reference-types-3o4f)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
-- 🎥 [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
-- 🎥 [VALORES vs REFERENCIAS en JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=AvkyOrWkuQc)
+- 🎥 [জাভাস্ক্রিপ্টের পাস বাই ভ্যালু (Pass by Value) বনাম পাস বাই রেফারেন্স (Pass by Reference) - techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
+- 🎥 [জাভাস্ক্রিপ্টের ভ্যালু (Value) বনাম রেফারেন্স (Reference) টাইপস - প্রোগ্রামিং উইথ মশ](https://www.youtube.com/watch?v=fD0t_DKREbE)
+- 🎥 [জাভাস্ক্রিপ্টের ভাল্যু (Values) এবং রেফারেন্স (Reference) - দ্য কিচেন অফ কোড](https://www.youtube.com/watch?v=AvkyOrWkuQc)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
-## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
+## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing (ইমপ্লিসিট, এক্সপ্লিসিট, নমিনাল, স্ট্রাকচারিং এবং ডাক টাইপিং)
 
-### Articles
+### আর্টিকেলস
 
-- 📜 [What you need to know about Javascript's Implicit Coercion — Promise Tochi](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
-- 📜 [JavaScript Type Coercion Explained — Alexey Samoshkin](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
-- 📜 [Javascript Coercion Explained — Ben Garrison](https://hackernoon.com/javascript-coercion-explained-545c895213d3)
-- 📜 [What exactly is Type Coercion in Javascript? - Stack Overflow](https://stackoverflow.com/questions/19915688/what-exactly-is-type-coercion-in-javascript)
-- 📜 [Type Coercion in JavaScript, and why everyone gets it wrong.](https://thedevs.network/blog/type-coercion-in-javascript-and-why-everyone-gets-it-wrong)
+- 📜 [জাভাস্ক্রিপ্টের ইমপ্লিসিট কোরশন (Implicit Coercion) সম্পর্কে আপনার যা জানা প্রয়োজন - প্রমিজ টোশি](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
+- 📜 [জাভাস্ক্রিপ্টের টাইপ কোরশন (Type Coercion) এর ব্যাখ্যা - আলেক্সেই সামোশকিন](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
+- 📜 [জাভাস্ক্রিপ্টের কোরশন (Coercion) এর বিবৃতি - বেন গ্যারিসন](https://hackernoon.com/javascript-coercion-explained-545c895213d3)
+- 📜 [জাভাস্ক্রিপ্টে টাইপ কোরশন (Type Coercion) মূলত কী? - স্ট্যাক ওভারফ্লো](https://stackoverflow.com/questions/19915688/what-exactly-is-type-coercion-in-javascript)
+- 📜 [জাভাস্ক্রিপ্টের টাইপ কোরশন (Type Coercion), এবং কেনো সবাই এটিতে ভুল করে বসে।](https://thedevs.network/blog/type-coercion-in-javascript-and-why-everyone-gets-it-wrong)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [== ? === ??? ...#@^% - Shirmung Bielefeld](https://www.youtube.com/watch?v=qGyqzN0bjhc&t)
-- 🎥 [Coercion in Javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=b04Q_vyqEG8)
-- 🎥 [JavaScript Questions: What is Coercion? - Steven Hancock](https://www.youtube.com/watch?v=z4-8wMSPJyI)
-- 🎥 [Typing: Static vs Dynamic, Weak vs. Strong - Codexpanse](https://www.youtube.com/watch?v=C5fr0LZLMAs)
-- 🎥 [EL SISTEMA de TIPOS DE JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=0ei4nb49GKo)
+- 🎥 [== ? === ??? ...#@^% - শিরমাং বিলফেল্ড](https://www.youtube.com/watch?v=qGyqzN0bjhc&t)
+- 🎥 [জাভাস্ক্রিপ্টের কোরশন - হিতেশ চৌধুরী](https://www.youtube.com/watch?v=b04Q_vyqEG8)
+- 🎥 [জাভাস্ক্রিপ্ট সম্পর্কে প্রশ্নঃ কোরশন (Coercion) কাকে বলে? - স্টিভেন হ্যানকক](https://www.youtube.com/watch?v=z4-8wMSPJyI)
+- 🎥 [টাইপিং (Typing) ঃ স্ট্যাটিক (Static) বনাম ডাইনামিক (Dynamic), উইক (Weak) vs স্ট্রং (Strong)](https://www.youtube.com/watch?v=C5fr0LZLMAs)
+- 🎥 [জাভাস্ক্রিপ্টের টাইপ সিস্টেম (Type System) - দ্য কিচেন অফ কোড](https://www.youtube.com/watch?v=0ei4nb49GKo)
 
-### Books
+### বইগুলো
 
-- [You Don't Know JS, 1st Edition: Types & Grammar — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+- [ইউ ডোন্ট নো জাভাস্ক্রিপ্ট ইয়েট, প্রথম প্রকাশনঃ টাইপস (Types) এবং গ্রামার (Grammar) - কাইল সিম্পসন](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
