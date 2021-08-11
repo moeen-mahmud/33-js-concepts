@@ -176,7 +176,7 @@
 
 ## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
 
-### আর্টিকেলস
+### আর্টিকেলসমূহ
 
 - 📜 [জাভাস্ক্রিপ্টের ইমপ্লিসিট কোরশন (Implicit Coercion) সম্পর্কে আপনার যা জানা প্রয়োজন - প্রমিজ টোশি](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
 - 📜 [জাভাস্ক্রিপ্টের টাইপ কোরশন (Type Coercion) এর ব্যাখ্যা - আলেক্সেই সামোশকিন](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
@@ -202,175 +202,175 @@
 
 ## 5. == vs === vs typeof
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [JavaScript Double Equals vs. Triple Equals — Brandon Morelli](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
-- 📜 [Should I use === or == equality comparison operator in JavaScript? — Panu Pitkamaki](https://bytearcher.com/articles/equality-comparison-operator-javascript/)
-- 📜 [== vs === JavaScript: Double Equals and Coercion — AJ Meyghani](https://www.codementor.io/javascript/tutorial/double-equals-and-coercion-in-javascript)
-- 📜 [Why Use the Triple-Equals Operator in JavaScript? — Louis Lazaris](https://www.impressivewebs.com/why-use-triple-equals-javascipt/)
-- 📜 [What is the difference between == and === in JavaScript? — Craig Buckler](https://www.oreilly.com/learning/what-is-the-difference-between-and-in-javascript)
-- 📜 [Why javascript's typeof always return "object"? — Stack Overflow](https://stackoverflow.com/questions/3787901/why-javascripts-typeof-always-return-object)
-- 📜 [Checking Types in Javascript — Toby Ho](http://tobyho.com/2011/01/28/checking-types-in-javascript/)
-- 📜 [How to better check data types in JavaScript — Webbjocke](https://webbjocke.com/javascript-check-data-types/)
-- 📜 [Checking for the Absence of a Value in JavaScript — Tomer Aberbach](https://tomeraberba.ch/html/post/checking-for-the-absence-of-a-value-in-javascript.html)
+- 📜 [জাভাস্ক্রিপ্টের ডাবল ইক্যুয়ালস (Double Equals) বনাম ট্রিপল ইক্যুয়ালস (Triple Equals) - ব্র্যান্ডন মোরেল্লি](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
+- 📜 [জাভাস্ক্রিপ্টের ইক্যুয়ালিটি অপারেটর (Equality Operator) এর ক্ষেত্রে === অথবা == কোনটি ব্যবহার করা উচিত? - পান্যু পিতকামাকি](https://bytearcher.com/articles/equality-comparison-operator-javascript/)
+- 📜 [জাভাস্ক্রিপ্টের == বনাম === ঃ ডাবল ইক্যুয়ালস (Double Equals) এবং কোরশন (Coercion) - এ.জে মিয়াঘ্যানি](https://www.codementor.io/javascript/tutorial/double-equals-and-coercion-in-javascript)
+- 📜 [জাভাস্ক্রিপ্টের কেনো ট্রিপল ইক্যুয়ালস (Triple-Equals) ব্যবহার করা উচিত? - লুই ল্যাযারিস](https://www.impressivewebs.com/why-use-triple-equals-javascipt/)
+- 📜 [জাভাস্ক্রিপ্টে == এবং === এর মধ্যে পার্থক্য কী? - ক্রেইগ বাকলার](https://www.oreilly.com/learning/what-is-the-difference-between-and-in-javascript)
+- 📜 [জাভাস্ক্রিপ্টের টাইপঅফ (Typeof) অপারেটর কেনো সবসময় অবজেক্ট (Object) রিটার্ন করে? - স্ট্যাক ওভারফ্লো](https://stackoverflow.com/questions/3787901/why-javascripts-typeof-always-return-object)
+- 📜 [জাভাস্ক্রিপ্টের টাইপস চেক করা - টবি হো](http://tobyho.com/2011/01/28/checking-types-in-javascript/)
+- 📜 [জাভাস্ক্রিপ্টের ড্যাটা টাইপস (Data Types) কীভাবে আরোও ভালো করে চেক করা যায় - Webbjocke](https://webbjocke.com/javascript-check-data-types/)
+- 📜 [জাভাস্ক্রিপ্টে ভ্যালুর অনুপস্থিতি চেক করণ - টোমার এইবারব্যাক](https://tomeraberba.ch/html/post/checking-for-the-absence-of-a-value-in-javascript.html)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [JavaScript - The typeof operator — Java Brains](https://www.youtube.com/watch?v=ol_su88I3kw)
-- 🎥 [Javascript typeof operator — DevDelight](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
+- 🎥 [জাভাস্ক্রিপ্টঃ টাইপঅফ (Typeof) অপারেটর - জাভা ব্রেইনস](https://www.youtube.com/watch?v=ol_su88I3kw)
+- 🎥 [জাভাস্ক্রিপ্টের টাইপঅফ অপারেটর - ডেভডিলাইট](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
 ## 6. Function Scope, Block Scope and Lexical Scope
 
-### Books
+### বইগুলো
 
-- [You Don't Know JS Yet, 2nd Edition: Scope & Closures — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
+- [ইউ ডোন্ট নো জাভাস্ক্রিপ্ট ইয়েট, দ্বিতীয় প্রকাশনঃ স্কোপ (Scope) এবং ক্লোজারস (Closures) - কাইল সিম্পসন](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [JavaScript Functions — Understanding The Basics — Brandon Morelli](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
-- 📜 [The battle between Function Scope and Block Scope — Marius Herring](http://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
-- 📜 [Emulating Block Scope in JavaScript — Josh Clanton](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
-- 📜 [The Difference Between Function and Block Scope in JavaScript — Joseph Cardillo](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
-- 📜 [Function Scopes and Block Scopes in JavaScript — Samer Buna](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
-- 📜 [Understanding Scope and Context in JavaScript | Ryan Morr](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
-- 📜 [JavaScript Scope and Closures — Zell Liew](https://css-tricks.com/javascript-scope-closures/)
-- 📜 [Understanding Scope in JavaScript — Wissam Abirached](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
-- 📜 [Speaking JavaScript - Variables: Scopes, Environments, and Closures — Dr. Axel Rauschmayer](http://speakingjs.com/es5/ch16.html)
-- 📜 [Understanding Scope in JavaScript ― Hammad Ahmed](https://scotch.io/tutorials/understanding-scope-in-javascript)
-- 📜 [When to use a function declaration vs. a function expression ― Amber Wilkie](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
-- 📜 [A JavaScript Fundamentals Cheat Sheet: Scope, Context, and “this” ― Alexandra Fren](https://dev.to/alexandrafren/a-javascript-fundamentals-cheat-sheet-scope-context-and-this-28ai)
+- 📜 [জাভাস্ক্রিপ্টের ফাংশন (Functions) - বেসিক সম্পর্কিত জ্ঞান - ব্র্যান্ডন মোরেলি](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+- 📜 [ফাংশন স্কোপ (Function Scope) এবং ব্লক স্কোপ (Block Scope) এর ভেতরের দ্বন্দ - ম্যারিয়াস হেরিং](http://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
+- 📜 [জাভাস্ক্রিপ্ট ব্লক স্কোপের (Block Scope) এর প্রতিদ্বন্দিতা - জশ ক্ল্যান্টন](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
+- 📜 [জাভাস্ক্রিপ্টের ফাংশন স্কোপ (Function Scope) এবং ব্লক স্কোপ (Block Scope) এর মধ্যকার পার্থক্য - জোসেফ কার্দিলো](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
+- 📜 [জাভাস্ক্রিপ্টের ফাংশন স্কোপ (Function Scope) এবং ব্লক স্কোপ (Block Scope) - সামির বিউনা](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের স্কোপ (Scope) এবং কন্টেক্সট (Context) | রায়ান মুর](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
+- 📜 [জাভাস্ক্রিপ্টের স্কোপ (Scope) এবং ক্লোজারস (Closures) - যিল লিউ](https://css-tricks.com/javascript-scope-closures/)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের স্কোপ (Scope) - উইশাম অ্যাবিরাচড](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
+- 📜 [জাভাস্ক্রিপ্ট বচন - ভ্যারিয়েবলস (Variables) ঃ স্কোপ (Scope), এনভায়রনমেন্ট (Environment) এবং ক্লোজারস (Closures) - ড. অ্যাক্সেল রশম্যায়ার](http://speakingjs.com/es5/ch16.html)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের স্কোপ (Scope) - হাম্মাদ আহমেদ](https://scotch.io/tutorials/understanding-scope-in-javascript)
+- 📜 [কখন একটি ফাংশন ডিক্লারেশন (Function Declaration) বনাম একটি ফাংশন এক্সপ্রেশন (Function Expression) ব্যবহার করতে হয় - অ্যাম্বার উইকি](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
+- 📜 [জাভাস্ক্রিপ্ট ফান্ডামেন্টালের একটি চিট শিটঃ স্কোপ (Scope), কনটেক্সট (Context), এবং "দিস" (this) - আলেক্সান্ডার ফ্রেন](https://dev.to/alexandrafren/a-javascript-fundamentals-cheat-sheet-scope-context-and-this-28ai)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [What Makes Javascript Weird ... and Awesome pt. 4 — LearnCode.academy](https://www.youtube.com/watch?v=SBwoFkRjZvE)
-- 🎥 [Variable Scope in JavaScript — Kirupa Chinnathambi](https://www.youtube.com/watch?v=dhp57T3p760)
-- 🎥 [JavaScript Block Scope and Function Scope — mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
-- 🎥 [What the Heck is Lexical Scope? — NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
+- 🎥 [জাভাস্ক্রিপ্ট কেনো অদ্ভুত... এবং অসাধারণ পার্টঃ ৪ - Learncode.academy ](https://www.youtube.com/watch?v=SBwoFkRjZvE)
+- 🎥 [জাভাস্ক্রিপ্টের ভ্যারিয়েবল স্কোপ (Variable Scope) - কিরুপা চিন্নথাম্বি](https://www.youtube.com/watch?v=dhp57T3p760)
+- 🎥 [জাভাস্ক্রিপ্টের ব্লক স্কোপ (Block Scope) এবং ফাংশন স্কোপ (Function Scope) — mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
+- 🎥 [লেক্সিক্যাল স্কোপ (Lexical Scope) টা আসলে কী? - NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
 ## 7. Expression vs Statement
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [All you need to know about Javascript's Expressions, Statements and Expression Statements — Promise Tochi](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
-- 📜 [Function Expressions vs Function Declarations — Paul Wilkins](https://www.sitepoint.com/function-expressions-vs-declarations/)
-- 📜 [JavaScript Function — Declaration vs Expression — Ravi Roshan](https://medium.com/@raviroshan.talk/javascript-function-declaration-vs-expression-f5873b8c7b38)
-- 📜 [Function Declarations vs. Function Expressions — Mandeep Singh](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
-- 📜 [Function Declarations vs. Function Expressions — Anguls Croll](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
+- 📜 [জাভাস্ক্রিপ্টের এক্সপ্রেশন (Expression), স্টেটমেন্ট (Statements) এবং এক্সপ্রেশন স্টেটমেন্ট (Expression Statements) সম্পর্কে যা যা জানা প্রয়োজন — প্রমিজ টোশি](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
+- 📜 [ফাংশন এক্সপ্রেশন (Function Expression) বনাম ফাংশন ডিক্লারেশন (Function Declaration) - পল উইকিন্স](https://www.sitepoint.com/function-expressions-vs-declarations/)
+- 📜 [জাভাস্ক্রিপ্টের ফাংশন - ডিক্লারেশন (Declaration) বনাম এক্সপ্রেশন (Expression) - রবি রোশান](https://medium.com/@raviroshan.talk/javascript-function-declaration-vs-expression-f5873b8c7b38)
+- 📜 [ফাংশন ডিক্লারেশন (Function Declarations) বনাম এক্সপ্রেশন (Function Expressions) - মান্দিপ সিং](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
+- 📜 [ফাংশন ডিক্লারেশন (Function Declarations) বনাম এক্সপ্রেশন (Function Expressions) - অ্যাগনাস ক্রল](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [Expressions vs. Statements in JavaScript — Hexlet](https://www.youtube.com/watch?v=WVyCrI1cHi8)
-- 🎥 [JavaScript - Expression vs. Statement — WebTunings](https://www.youtube.com/watch?v=3jDpNGJkupA)
+- 🎥 [এক্সপ্রেশন (Expressions) বনাম স্টেটমেন্ট (Statements) — Hexlet](https://www.youtube.com/watch?v=WVyCrI1cHi8)
+- 🎥 [জাভাস্ক্রিপ্ট - এক্সপ্রেশন (Expression) বনাম স্টেটমেন্ট (Statement) — WebTunings](https://www.youtube.com/watch?v=3jDpNGJkupA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
 ## 8. IIFE, Modules and Namespaces
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [Mastering Immediately-Invoked Function Expressions ― Chandra Gundamaraju](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
-- 📜 [Do ES6 Modules make the case of IIFEs obsolete?](https://hashnode.com/post/do-es6-modules-make-the-case-of-iifes-obsolete-civ96wet80scqgc538un20es0)
-- 📜 [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers ― Jurgen Van de Moere](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
-- 📜 [Modules ― Exploring JS](http://exploringjs.com/es6/ch_modules.html)
-- 📜 [ES modules: A cartoon deep-dive — Lin Clark](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
-- 📜 [Understanding ES6 Modules — Craig Buckler](https://www.sitepoint.com/understanding-es6-modules/)
-- 📜 [An overview of ES6 Modules in JavaScript — Brent Graham](https://blog.cloud66.com/an-overview-of-es6-modules-in-javascript/)
-- 📜 [ES6 Modules in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-modules-in-depth)
-- 📜 [ES6 modules, Node.js and the Michael Jackson Solution — Alberto Gimeno](https://medium.com/dailyjs/es6-modules-node-js-and-the-michael-jackson-solution-828dc244b8b)
-- 📜 [JavaScript Modules: A Beginner’s Guide — Preethi Kasireddy](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
-- 📜 [Using JavaScript modules on the web](https://developers.google.com/web/fundamentals/primers/modules)
-- 📜 [IIFE: Immediately Invoked Function Expressions — Parwinder](https://dev.to/bhagatparwinder/iife-immediately-invoked-function-expressions-49c5)
+- 📜 [ইমিডিয়েটলি-ইনভোকড ফাংশন এক্সপ্রেশন (Immediately-Invoked Function Expressions) আয়ত্বকরণ - চন্দ্র গুন্দমারাজু](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
+- 📜 [ইএস সিক্স (ES6) এর মডিউলগুলো কি আইআইএফই (IIFE) কে অচল করে ফেলে?](https://hashnode.com/post/do-es6-modules-make-the-case-of-iifes-obsolete-civ96wet80scqgc538un20es0)
+- 📜 [জাভাস্ক্রিপ্টের মডিউলস (modules), মডিউল ফরম্যাটস (Module Formats), মডিউল লোডার (Module Loaders) এবং মডিউল বান্ডলার (Module Bundlers) সম্পর্কিত ১০ মিনিটের একটি পাঠ - ইউর্গেন ভন ডি মোয়েরে](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+- 📜 [মডিউলস - এক্সপ্লোরিং জাভাস্ক্রিপ্ট](http://exploringjs.com/es6/ch_modules.html)
+- 📜 [ইএস সিক্স মডিউলসঃ কার্টুন দিয়ে বিশদ ব্যাখ্যা - লিন ক্লার্ক](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+- 📜 [সহজভাবে ইএস সিক্স মডিউলস - ক্রেইগ বাকলার](https://www.sitepoint.com/understanding-es6-modules/)
+- 📜 [জাভাস্ক্রিপ্টের ইএস সিক্স মডিউলের একটি ওভারভিউ - ব্রেন গ্রাহাম](https://blog.cloud66.com/an-overview-of-es6-modules-in-javascript/)
+- 📜 [বিশদভাবে ইএস সিক্স মডিউল - নিকোলাস বিভাকুয়া](https://ponyfoo.com/articles/es6-modules-in-depth)
+- 📜 [ইএস সিক্স মডিউল, নোড (Node.js) এবং মাইকেল জ্যাকসন সলিউশন - আলবার্তো গিমিনো](https://medium.com/dailyjs/es6-modules-node-js-and-the-michael-jackson-solution-828dc244b8b)
+- 📜 [জাভাস্ক্রিপ্ট মডিউলসঃ একটি বিগিনার গাইড - প্রিথী কাসিরেদ্দি](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
+- 📜 [ওয়েবে জাভাস্ক্রিপ্ট মডিউলের ব্যবহার](https://developers.google.com/web/fundamentals/primers/modules)
+- 📜 [আইআইএফই (IIFE): ইমিডিয়েটলি ইনভোকড ফাংশন এক্সপ্রেশন (IIFE: Immediately Invoked Function Expressions) — Parwinder](https://dev.to/bhagatparwinder/iife-immediately-invoked-function-expressions-49c5)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [Immediately Invoked Function Expression - Beau teaches JavaScript — freeCodeCamp](https://www.youtube.com/watch?v=3cbiZV4H22c)
-- 🎥 [Understanding JavaScript IIFE](https://www.youtube.com/watch?v=I5EntfMeIIQ)
-- 🎥 [JavaScript Modules: ES6 Import and Export — Kyle Robinson](https://www.youtube.com/watch?v=_3oSWwapPKQ)
-- 🎥 [ES6 - Modules — Ryan Christiani](https://www.youtube.com/watch?v=aQr2bV1BPyE)
-- 🎥 [ES6 Modules in the Real World — Sam Thorogood](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
-- 🎥 [ES6 Modules — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
+- 🎥 [ইমিডিয়েটলি ইনভোকড ফাংশন এক্সপ্রেশন (Immediately Invoked Function Expression) - Beau teaches JavaScript — freeCodeCamp](https://www.youtube.com/watch?v=3cbiZV4H22c)
+- 🎥 [সহজভাবে জাভাস্ক্রিপ্টের IIFE](https://www.youtube.com/watch?v=I5EntfMeIIQ)
+- 🎥 [জাভাস্ক্রিপ্টের মডিউলসঃ ইএস সিক্স ইম্পোর্ট এবং এক্সপোর্ট - কাইল রবিনসন](https://www.youtube.com/watch?v=_3oSWwapPKQ)
+- 🎥 [ইএস সিক্স মডিউলস - রায়ান ক্রিস্টিয়ানি](https://www.youtube.com/watch?v=aQr2bV1BPyE)
+- 🎥 [বাস্তবিক ইএস সিক্স মডিউলস - স্যাম থরোগুড](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
+- 🎥 [ইএস সিক্স মডিউলস — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
 ## 9. Message Queue and Event Loop
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [JavaScript Event Loop Explained — Anoop Raveendran](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4)
-- 📜 [The JavaScript Event Loop: Explained — Erin Sweson-Healey](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
-- 📜 [Understanding JS: The Event Loop — Alexander Kondov](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
-- 📜 [Understanding the JavaScript Event Loop — Ashish Gupta](https://www.zeolearn.com/magazine/understanding-the-javascript-event-loop)
-- 📜 [Event Loop in Javascript — Manjula Dube](https://code.likeagirl.io/what-the-heck-is-event-loop-1e414fccef49)
-- 📜 [The JavaScript Event Loop — Flavio Copes](https://flaviocopes.com/javascript-event-loop/)
-- 📜 [How JavaScript works: Event loop — Alexander Zlatkov](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
-- 📜 [Tasks, microtasks, queues and schedules — Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
-- 📜 [Visualising the JavaScript Event Loop with a Pizza Restaurant analogy — Priyansh Jain](https://dev.to/presto412/visualising-the-javascript-event-loop-with-a-pizza-restaurant-analogy-47a8)
-- 📜 [JavaScript Visualized: Event Loop — Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- 📜 [জাভাস্ক্রিপ্টের ইভেন্ট লুপের (Event Loop) ব্যাখ্যা - অনুপ রবিন্দ্রন](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4)
+- 📜 [জাভাস্ক্রিপ্টের ইভেন্ট লুপ (Event Loop): ব্যাখ্যা - এরিন শোয়েসন-হিলি](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টঃ ইভেন্ট লুপ (Event Loop) - আশিস গুপ্ত](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের ইভেন্ট লুপ (Event Loop) - আশিস গুপ্ত](https://www.zeolearn.com/magazine/understanding-the-javascript-event-loop)
+- 📜 [জাভাস্ক্রিপ্টের ইভেন্ট লুপ (Event Loop) - মঞ্জুলা দুবে](https://code.likeagirl.io/what-the-heck-is-event-loop-1e414fccef49)
+- 📜 [জাভাস্ক্রিপ্টের ইভেন্ট লুপ (Event Loop) - ফ্লাভিও কোপস](https://flaviocopes.com/javascript-event-loop/)
+- 📜 [জাভাস্ক্রিপ্ট কীভাবে কাজ করেঃ ইভেন্ট লুপ (Event Loop) - আলেক্সান্ডার যলাতকভ](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+- 📜 [টাস্ক (Task), মাইক্রোটাস্ক (Microtask), কিউ (Queues) এবং শিডিউল (Schedules) - জেইক আরশিবাল্ড](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+- 📜 [পিজ্জা রেস্টুরেন্ট দিয়ে জাভাস্ক্রিপ্ট ইভেন্ট লুপ (Event Loop) এর একটি দৃশ্যমান তুলনা - প্রিয়ানশ জৈন](https://dev.to/presto412/visualising-the-javascript-event-loop-with-a-pizza-restaurant-analogy-47a8)
+- 📜 [জাভাস্ক্রিপ্টের সাদৃশ্যকরণ - ইভেন্ট লুপ (Event Loop) - লিডিয়া হ্যালি](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [What the heck is the event loop anyway? | JSConf EU — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- 🎥 [JavaScript Event Loop — ComScience Simplified](https://www.youtube.com/watch?v=XzXIMZMN9k4)
-- 🎥 [I'm stuck in an Event Loop — Philip Roberts](https://www.youtube.com/watch?v=6MXRNXXgP_0)
-- 🎥 [In The Loop - Jake Archibald | JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+- 🎥 [ইভেন্ট লুপ (Event Loop) জিনিসটা আসলে কী? । JSConf EU - ফিলিপ রবার্টস](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- 🎥 [জাভাস্ক্রিপ্টের ইভেন্ট লুপ (Event Loop) — ComScience Simplified](https://www.youtube.com/watch?v=XzXIMZMN9k4)
+- 🎥 [আমি ইভেন্ট লুপে (Event Loop) আটকে গিয়েছি — ফিলিপ রবার্টস](https://www.youtube.com/watch?v=6MXRNXXgP_0)
+- 🎥 [লুপের ভেতর - জেইক আরশিবাল্ড | JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 - 🎥 [Desmitificando el Event Loop (Spanish)](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
 ## 10. setTimeout, setInterval and requestAnimationFrame
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [setTimeout and setInterval — JavaScript.Info](https://javascript.info/settimeout-setinterval)
-- 📜 [Why not to use setInterval — Akanksha Sharma](https://dev.to/akanksha_9560/why-not-to-use-setinterval--2na9)
-- 📜 [setTimeout VS setInterval — Develoger](https://develoger.com/settimeout-vs-setinterval-cff85142555b)
-- 📜 [Using requestAnimationFrame — Chris Coyier](https://css-tricks.com/using-requestanimationframe/)
-- 📜 [Understanding JavaScript's requestAnimationFrame() — JavaScript Kit](http://www.javascriptkit.com/javatutors/requestanimationframe.shtml)
-- 📜 [Handling time intervals in JavaScript - Amit Merchant](https://www.amitmerchant.com/Handling-Time-Intervals-In-Javascript/)
+- 📜 [সেট টাইমআউট (setTimeout) এবং সেট ইন্টার্ভাল (setInterval) — JavaScript.Info](https://javascript.info/settimeout-setinterval)
+- 📜 [সেট ইন্টার্ভাল (setInterval) কেনো ব্যবহার করা উচিত নয় - আকাঙ্খা শর্মা](https://dev.to/akanksha_9560/why-not-to-use-setinterval--2na9)
+- 📜 [সেট টাইমআউট (setTimeout) বনাম সেট ইন্টার্ভাল (setInterval) — Develoger](https://develoger.com/settimeout-vs-setinterval-cff85142555b)
+- 📜 [রিকোয়েস্ট অ্যানিমেশন ফ্রেম (requestAnimationFrame) এর ব্যবহার — ক্রিস কোয়েয়ার](https://css-tricks.com/using-requestanimationframe/)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের রিকোয়েস্ট অ্যানিমেশন ফ্রেম (requestAnimationFrame()) — JavaScript Kit](http://www.javascriptkit.com/javatutors/requestanimationframe.shtml)
+- 📜 [জাভাস্ক্রিপ্টের টাইম ইন্টার্ভাল (Time Intervals) এর নিয়ন্ত্রণকরণ - অমিত মার্চেন্ট](https://www.amitmerchant.com/Handling-Time-Intervals-In-Javascript/)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [Javascript: How setTimeout and setInterval works — Coding Blocks India](https://www.youtube.com/watch?v=6bPKyl8WYWI)
-- 🎥 [setTimeout and setInterval in JavaScript — techsith](https://www.youtube.com/watch?v=TbCgGWe8LN8)
-- 🎥 [JavaScript Timers — Steve Griffith](https://www.youtube.com/watch?v=0VVJSvlUgtg)
-- 🎥 [JavaScript setTimeOut and setInterval Explained — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60)
+- 🎥 [জাভাস্ক্রিপ্টঃ কীভাবে সেট টাইমআউট (setTimeout) এবং সেট ইন্টার্ভাল (setInterval) কাজ করে - কোডিং ব্লকস ইন্ডিয়া](https://www.youtube.com/watch?v=6bPKyl8WYWI)
+- 🎥 [জাভাস্ক্রিপ্টের সেট টাইমআউট (setTimeout) এবং সেট ইন্টার্ভাল (setInterval) — techsith](https://www.youtube.com/watch?v=TbCgGWe8LN8)
+- 🎥 [জাভাস্ক্রিপ্টের টাইমারস - স্টিভ গ্রিফিথ](https://www.youtube.com/watch?v=0VVJSvlUgtg)
+- 🎥 [জাভাস্ক্রিপ্ট সেট টাইমআউট (setTimeout) এবং সেট ইন্টার্ভাল (setInterval) এর ব্যাখ্যা - থিওডোর অ্যান্ডারসন](https://www.youtube.com/watch?v=mVKfrWCOB60)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
 ## 11. JavaScript Engines
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [JavaScript Engines — Jen Looper](http://www.softwaremag.com/javascript-engines/)
-- 📜 [Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code — DroidHead](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
-- 📜 [Understanding V8’s Bytecode — Franziska Hinkelmann](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
-- 📜 [A Brief History of Google’s V8 Javascript Engine — Clair Smith](https://www.mediacurrent.com/blog/brief-history-googles-v8-javascript-engine/)
-- 📜 [JavaScript essentials: why you should know how the engine works - Rainer Hahnekamp](https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553)
-- 📜 [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
-- 📜 [JavaScript engine fundamentals: optimizing prototypes](https://mathiasbynens.be/notes/prototypes)
-- 📜 [How V8 optimizes array operations](https://v8.dev/blog/elements-kinds)
+- 📜 [জাভাস্ক্রিপ্টের ইঞ্জিন - জেন লুপার](http://www.softwaremag.com/javascript-engines/)
+- 📜 [ক্রোম ভি৮ (V8) ইঞ্জিন কীভাবে জাভাস্ক্রিপ্টকে মেশিন কোডে রুপান্তর করে সে সম্পর্কিত সহজ ধারণা - DroidHead](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
+- 📜 [সহজভাবে ভি৮(V8) এর বাইটকোড - ফান্সিস্কা হিনকালমান](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+- 📜 [গুগল ভি৮(V8) জাভাস্ক্রিপ্ট ইঞ্জিনের একটি সংক্ষিপ্ত ইতিহাস - ক্ল্যায়ার স্মিথ](https://www.mediacurrent.com/blog/brief-history-googles-v8-javascript-engine/)
+- 📜 [জাভাস্ক্রিপ্টের সারমর্মঃ ইঞ্জিন কীভাবে কাজ করে তা কেনো জানা উচিত - রাইনার হাইনিকাম্প](https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553)
+- 📜 [প্রাথমিক জাভাস্ক্রিপ্ট ইঞ্জিনঃ শেপস (Shapes) এবং ইনলাইন ক্যাশেস (Inline Caches)](https://mathiasbynens.be/notes/shapes-ics)
+- 📜 [প্রাথমিক জাভাস্ক্রিপ্ট ইঞ্জিনঃ প্রটোটাইপস (Prototypes) এর সর্বোচ্চকরণ](https://mathiasbynens.be/notes/prototypes)
+- 📜 [কীভাবে ভি৮(V8) ইঞ্জিন অ্যারে অপারেশন কে নিঁখুত করে](https://v8.dev/blog/elements-kinds)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [JavaScript Engines: The Good Parts™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
+- 🎥 [জাভাস্ক্রিপ্ট ইঞ্জিনঃ ভালো দিকগুলো™ — মাথিয়াস বাইনেন্স এবং বেনেডিক্ট মৌরার](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
