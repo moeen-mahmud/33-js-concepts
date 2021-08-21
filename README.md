@@ -376,74 +376,74 @@
 
 ## 12. Bitwise Operators, Type Arrays and Array Buffers
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [Programming with JS: Bitwise Operations — Alexander Kondov](https://hackernoon.com/programming-with-js-bitwise-operations-393eb0745dc4)
-- 📜 [Using JavaScript’s Bitwise Operators in Real Life — ian m](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
-- 📜 [JavaScript Bitwise Operators — w3resource](https://www.w3resource.com/javascript/operators/bitwise-operator.php)
-- 📜 [Bitwise Operators in Javascript — Joe Cha](https://medium.com/bother7-blog/bitwise-operators-in-javascript-65c4c69be0d3)
-- 📜 [A Comprehensive Primer on Binary Computation and Bitwise Operators in Javascript — Paul Brown](https://medium.com/techtrument/a-comprehensive-primer-on-binary-computation-and-bitwise-operators-in-javascript-81acf8341f04)
-- 📜 [How can I understand Bitwise operation in JavaScript?](https://www.quora.com/How-can-I-understand-Bitwise-operation-in-JavaScript)
+- 📜 [জাভাস্ক্রিপ্ট প্রোগ্রামিংঃ বিটওয়াইজ অপারেশন (Bitwise Operations) - আলেক্সান্ডার কোনডভ](https://hackernoon.com/programming-with-js-bitwise-operations-393eb0745dc4)
+- 📜 [জাভাস্ক্রিপ্টের বিটওয়াইজ অপারেটর (Bitwise Operator) সমূহের বাস্তব ব্যবহার - ian m](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
+- 📜 [জাভাস্ক্রিপ্টের বিটওয়াইজ অপারেটর (Bitwise Operators) সমূহ — w3resource](https://www.w3resource.com/javascript/operators/bitwise-operator.php)
+- 📜 [জাভাস্ক্রিপ্টের বিটওয়াইজ অপারেটর (Bitwise operators) সমূহ - জো চ্যা](https://medium.com/bother7-blog/bitwise-operators-in-javascript-65c4c69be0d3)
+- 📜 [জাভাস্ক্রিপ্টের বাইনারি কম্পিউটেশন (Binary Computation) এবং বিটওয়াইজ অপারেটর (Bitwise Operator) নিয়ে একটি বিস্তারিত আলোচনা - পল ব্রাউন](https://medium.com/techtrument/a-comprehensive-primer-on-binary-computation-and-bitwise-operators-in-javascript-81acf8341f04)
+- 📜 [আমি কীভাবে জাভাস্ক্রিপ্টের বিটওয়াইজ অপারেশন বুঝে পারি?](https://www.quora.com/How-can-I-understand-Bitwise-operation-in-JavaScript)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [JavaScript Bitwise Operators — Programming with Mosh](https://www.youtube.com/watch?v=mesu75PTDC8)
+- 🎥 [জাভাস্ক্রিপ্টের বিটওয়াইজ অপারেটরস — Programming with Mosh](https://www.youtube.com/watch?v=mesu75PTDC8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
 ## 13. DOM and Layout Trees
 
-### Books
+### বইসমূহ
 
-- 📜 [Eloquent JavaScript, 3rd Edition: Ch. 14 - The Document Object Model](https://eloquentjavascript.net/14_dom.html)
+- 📜 [এলোকুয়েন্ট জাভাস্ক্রিপ্ট, তৃতীয় প্রকাশনঃ অ. ১৪ - দ্য ডকুমেন্ট অবজেক্ট মডেল](https://eloquentjavascript.net/14_dom.html)
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [How To Understand and Modify the DOM in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
-- 📜 [What’s the Document Object Model, and why you should know how to use it — Leonardo Maldonado](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
-- 📜 [JavaScript DOM Tutorial with Example — Guru99](https://www.guru99.com/how-to-use-dom-and-events-in-javascript.html)
-- 📜 [What is the DOM? — Chris Coyier](https://css-tricks.com/dom/)
-- 📜 [Traversing the DOM with JavaScript — Zell Liew](https://zellwk.com/blog/dom-traversals/)
-- 📜 [DOM Tree](https://javascript.info/dom-nodes)
-- 📜 [How to traverse the DOM in Javascript — Vojislav Grujić](https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e)
-- 📜 [Render Tree Construction — Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
-- 📜 [What exactly is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/)
-- 📜 [A Vanilla JS Guide On Mastering the DOM — Brian Pak](https://dev.to/bouhm/a-vanilla-js-guide-on-mastering-the-dom-3l9b)
+- 📜 [জাভাস্ক্রিপ্টে ডম (DOM) কিভাবে বুঝা যায় এবং মডিফাই করা যায় - তানিয়া রাসিয়া](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
+- 📜 [ডকুমেন্ট অবজেক্ট মডেল কি, এবং তার ব্যবহার কেনো জানা উচিত - লিওনার্দো ম্যালডোনাডো](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
+- 📜 [জাভাস্ক্রিপ্ট ডম (DOM)-এর উদাহরণসহ টিউটোরিয়াল — Guru99](https://www.guru99.com/how-to-use-dom-and-events-in-javascript.html)
+- 📜 [ডম কাকে বলে? - ক্রিস কোয়েয়ার](https://css-tricks.com/dom/)
+- 📜 [জাভাস্ক্রিপ্টে ডম (DOM) দিয়ে ট্রাভার্স করা - জেল লিউ](https://zellwk.com/blog/dom-traversals/)
+- 📜 [ডম ট্রি (DOM Tree)](https://javascript.info/dom-nodes)
+- 📜 [জাভাস্ক্রিপ্টের ডম কে কীভাবে ট্রাভার্স করা যায় - ভজিস্লাভ গ্রুজিচ](https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e)
+- 📜 [ট্রি কন্সট্রাকশন রেনডার করা - ইলিয়া গ্রিগোরিক](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
+- 📜 [ডম মূলত কী?](https://bitsofco.de/what-exactly-is-the-dom/)
+- 📜 [ডম আয়ত্বকরণে ভ্যানিলা জাভাস্ক্রিপ্টের একটি গাইড - ব্রায়ান প্যাক](https://dev.to/bouhm/a-vanilla-js-guide-on-mastering-the-dom-3l9b)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [JavaScript DOM — The Net Ninja](https://www.youtube.com/watch?v=FIORjGvT0kk)
-- 🎥 [JavaScript DOM Crash Course — Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+- 🎥 [জাভাস্ক্রিপ্ট ডম — The Net Ninja](https://www.youtube.com/watch?v=FIORjGvT0kk)
+- 🎥 [জাভাস্ক্রিপ্ট ডম ক্র্যাশ কোর্স — Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
 ## 14. Factories and Classes
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [How To Use Classes in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
-- 📜 [Javascript Classes — Under The Hood — Majid](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
-- 📜 [ES6 Classes — Nathaniel Foster](https://www.javascriptjanuary.com/blog/es6-classes)
-- 📜 [Better JavaScript with ES6, Pt. II: A Deep Dive into Classes ― Peleke Sengstacke](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
-- 📜 [Understand the Factory Design Pattern in Plain JavaScript — Aditya Agarwal](https://medium.com/front-end-hacking/understand-the-factory-design-pattern-in-plain-javascript-20b348c832bd)
-- 📜 [Factory Functions in JavaScript — Josh Miller](https://atendesigngroup.com/blog/factory-functions-javascript)
-- 📜 [The Factory Pattern in JS ES6 — SnstsDev](https://medium.com/@SntsDev/the-factory-pattern-in-js-es6-78f0afad17e9)
-- 📜 [Class vs Factory function: exploring the way forward — Cristi Salcescu](https://medium.freecodecamp.org/class-vs-factory-function-exploring-the-way-forward-73258b6a8d15)
-- 📜 [How ES6 classes really work and how to build your own — Robert Grosse](https://medium.com/@robertgrosse/how-es6-classes-really-work-and-how-to-build-your-own-fd6085eb326a)
-- 📜 [Understanding `super` in JavaScript](https://jordankasper.com/understanding-super-in-javascript)
-- 📜 [An Easy Guide To Understanding Classes In JavaScript](https://dev.to/lawrence_eagles/an-easy-guide-to-understanding-classes-in-javascript-3bcm)
+- 📜 [জাভাস্ক্রিপ্টে কীভাবে ক্লাস ব্যবহার করতে হয় - তানিয়া রাসিয়া](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
+- 📜 [জাভাস্ক্রিপ্টের ভেতরকার ক্লাস সমূহ - মাজিদ](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
+- 📜 [ইএস সিক্স (ES6)-এর ক্লাসসমূহ - নাথানিয়েল ফস্টার](https://www.javascriptjanuary.com/blog/es6-classes)
+- 📜 [ইএস সিক্স দিয়ে জাভাস্ক্রিপ্ট, পার্ট. ২ঃ ক্লাস নিয়ে বিশদ আলোচনা - প্যালেক সেনস্ট্যাকে](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
+- 📜 [প্লেইন জাভাস্ক্রিপ্ট দিয়ে সহজভাবে ফ্যাক্টরি ডিজাইন প্যাটার্ন বোঝা - আদিত্য আগারওয়াল](https://medium.com/front-end-hacking/understand-the-factory-design-pattern-in-plain-javascript-20b348c832bd)
+- 📜 [জাভাস্ক্রিপ্টের ফ্যাক্টরি ফাংশন - জশ মিলার](https://atendesigngroup.com/blog/factory-functions-javascript)
+- 📜 [জাভাস্ক্রিপ্ট ইএস সিক্সের ফ্যাক্টরি প্যাটার্ন - SnstsDev](https://medium.com/@SntsDev/the-factory-pattern-in-js-es6-78f0afad17e9)
+- 📜 [ক্লাস বনাম ফ্যাক্টরি ফাংশনঃ একটি সম্মুখ বিশ্লেষণ - ক্রিস্টি শালচেশু](https://medium.freecodecamp.org/class-vs-factory-function-exploring-the-way-forward-73258b6a8d15)
+- 📜 [ইএসসিক্স এর ক্লাসগুলো কীভাবে কাজ করে এবং আপনি কীভাবে নিজে এমন একটি ক্লাস বানাবেন - রবার্ট গ্রোশ](https://medium.com/@robertgrosse/how-es6-classes-really-work-and-how-to-build-your-own-fd6085eb326a)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের 'সুপার' (Super)](https://jordankasper.com/understanding-super-in-javascript)
+- 📜 [জাভাস্ক্রিপ্টের ক্লাস বুঝার জন্য একটি সহজ গাইড](https://dev.to/lawrence_eagles/an-easy-guide-to-understanding-classes-in-javascript-3bcm)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [JavaScript Factory Functions — Programming with Mosh](https://www.youtube.com/watch?v=jpegXpQpb3o)
-- 🎥 [Factory Functions in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=ImwrezYhw4w)
-- 🎥 [Javascript Tutorial Function Factories — Crypto Chan](https://www.youtube.com/watch?v=R7-IwpH80UE)
+- 🎥 [জাভাস্ক্রিপ্টের ফ্যাক্টরি ফাংশন — Programming with Mosh](https://www.youtube.com/watch?v=jpegXpQpb3o)
+- 🎥 [জাভাস্ক্রিপ্টের ফ্যাক্টরি ফাংশন — Fun Fun Function](https://www.youtube.com/watch?v=ImwrezYhw4w)
+- 🎥 [জাভাস্ক্রিপ্ট টিউটোরিয়ালঃ ফাংশনের ফ্যাক্টরি — Crypto Chan](https://www.youtube.com/watch?v=R7-IwpH80UE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
