@@ -498,26 +498,26 @@
 
 ## 16. new, Constructor, instanceof and Instances
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [JavaScript For Beginners: the ‘new’ operator — Brandon Morelli](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
-- 📜 [Let’s demystify JavaScript’s ‘new’ keyword — Cynthia Lee](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
-- 📜 [Constructor, operator "new" — JavaScript.Info](https://javascript.info/constructor-new)
-- 📜 [Understanding JavaScript Constructors — Faraz Kelhini](https://css-tricks.com/understanding-javascript-constructors/)
-- 📜 [Use Constructor Functions — Openclassrooms](https://openclassrooms.com/en/courses/3523231-learn-to-code-with-javascript/4379006-use-constructor-functions)
-- 📜 [Beyond `typeof` and `instanceof`: simplifying dynamic type checks — Dr. Axel Rauschmayer](http://2ality.com/2017/08/type-right.html)
-- 📜 [What Is the Instanceof Operator in JavaScript — appendTo](https://appendto.com/2016/10/what-is-the-instanceof-operator-in-javascript/)
-- 📜 [Function and Object, instances of each other — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
+- 📜 [বিগিনারদের জন্য জাভাস্ক্রিপ্টঃ 'new' অপারেটর - ব্র্যান্ডন মোরেলি](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের "new" কী-ওয়ার্ড - সিন্থিয়া লি](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
+- 📜 [কন্সট্রাক্টর এবং "new" অপারেটর — JavaScript.Info](https://javascript.info/constructor-new)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের কন্সট্রাক্টর (Constructor) - ফারাজ কেলহিনি](https://css-tricks.com/understanding-javascript-constructors/)
+- 📜 [কন্সট্রাক্টর (Constructor) ফাংশনের ব্যাবহার — Openclassrooms](https://openclassrooms.com/en/courses/3523231-learn-to-code-with-javascript/4379006-use-constructor-functions)
+- 📜 [আরোও 'typeof' এবং 'instaceof': সহজভাবে ডাইনামিক টাইপ চেক করা - ড. অ্যাক্সেল রশম্যায়ার](http://2ality.com/2017/08/type-right.html)
+- 📜 [জাভাস্ক্রিপ্টের instanceof অপারেটর কী — appendTo](https://appendto.com/2016/10/what-is-the-instanceof-operator-in-javascript/)
+- 📜 [ফাংশন এবং অবজেক্ট, একে অপরের 'instanceof'](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
 ## 17. Prototype Inheritance and Prototype Chain
 
-### Reference
+### রেফারেন্সসমূহ
 
-- 📜 [Inheritance and the prototype chain — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- 📜 [ইনহেরিটেন্স (Inheritance) এবং প্রটোটাইপ চেইন (Prototype Chain) — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 
 ### Articles
 
