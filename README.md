@@ -23,6 +23,7 @@
 
 এই রিপোজিটরির সকল অনুবাদ নিম্ন লিখিত তালিকায় যোগ হবেঃ
 
+- [ইংলিশ](https://github.com/leonardomso/33-js-concepts) - লিওনার্দো ম্যালডোনাডো
 - [আলবেনিয়ান](https://github.com/eldrinf/33-js-concepts-albanian.git) — অ্যালড্রিন অ্যারেক্বী
 - [আরবী](https://github.com/amrsekilly/33-js-concepts) — আমর ইলসেকিলি
 - [চীনা](https://github.com/stephentian/33-js-concepts) — রি তিয়ান
@@ -449,49 +450,49 @@
 
 ## 15. this, call, apply and bind
 
-### Reference
+### রেফারেন্সসমূহ
 
 - 📜 [call() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 - 📜 [bind() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
 - 📜 [apply() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [Grokking call(), apply() and bind() methods in JavaScript — Aniket Kudale](https://levelup.gitconnected.com/grokking-call-apply-and-bind-methods-in-javascript-392351a4be8b)
-- 📜 [How-to: call() , apply() and bind() in JavaScript — Niladri Sekhar Dutta](https://www.codementor.io/niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp)
-- 📜 [JavaScript’s Apply, Call, and Bind Methods are Essential for JavaScript Professionals — Richard Bovell](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
-- 📜 [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript — Tyler McGinnis](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
-- 📜 [Javascript: call(), apply() and bind() — Omer Goldberg](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
-- 📜 [The difference between call / apply / bind — Ivan Sifrim](https://medium.com/@ivansifrim/the-differences-between-call-apply-bind-276724bb825b)
-- 📜 [What the hack is call, apply, bind in JavaScript — Ritik](https://dev.to/ritik_dev_js/what-the-hack-is-call-apply-bind-in-javascript-11ce)
-- 📜 [Mastering 'this' in JavaScript: Callbacks and bind(), apply(), call() — Michelle Gienow](https://thenewstack.io/mastering-javascript-callbacks-bind-apply-call/)
-- 📜 [JavaScript’s apply, call, and bind explained by hosting a cookout — Kevin Kononenko](https://dev.to/kbk0125/javascripts-apply-call-and-bind-explained-by-hosting-a-cookout-32jo)
-- 📜 [How AND When to use bind, call, and apply in Javascript — Eigen X](https://www.eigenx.com/blog/https/mediumcom/eigen-x/how-and-when-to-use-bind-call-and-apply-in-javascript-77b6f42898fb)
-- 📜 [JavaScript .bind() vs .apply() and .call() — Hack Sparrow](https://www.hacksparrow.com/javascript-bind-vs-apply-and-call.html)
-- 📜 [Let me explain to you what is `this`. (Javascript) — Jason Yu](https://dev.to/ycmjason/let-me-explain-to-you-what-is-this-javascript-44ja)
-- 📜 [Understanding the “this” Keyword in JavaScript — Pavan](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
-- 📜 [How to understand the keyword this and context in JavaScript — Lukas Gisder-Dubé](https://medium.freecodecamp.org/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8)
-- 📜 [What the heck is this in Javascript? — Hridayesh Sharma](https://dev.to/_hridaysharma/what-the-heck-is-this-in-javascript-37n1)
-- 📜 [This and Bind In Javascript — Brian Barbour](https://dev.to/steelvoltage/this-and-bind-in-javascript-2pam)
-- 📜 [3 Techniques for Maintaining Your Sanity Using "This" in JavaScript — Carl](https://dev.to/canderson93/3-techniques-for-maintaining-your-sanity-using-this-in-javascript-3idf)
-- 📜 [Mastering the JavaScript "this" Keyword — Aakash Srivastav](https://dev.to/aakashsr/mastering-the-javascript-this-keyword-4pfa)
-- 📜 [This binding in JavaScript – 4. New binding — Spyros Argalias](https://dev.to/sargalias/this-binding-in-javascript-4-new-binding-2p1n)
-- 📜 [A quick intro to 'this' in JavaScript — Natalie Smith](https://dev.to/thatgalnatalie/a-quick-intro-to-this-in-javascript-2mhp)
-- 📜 [Explaining JavaScript 'this' to my cat — Andrey K](https://dev.to/cat__logic/explaining-javascript-this-to-my-cat-1kig)
-- 📜 [A conversation with the 'this' keyword in Javascript — Karen Efereyan](https://dev.to/developerkaren/a-conversation-with-the-this-keyword-in-javascript-3j6g)
-- 📜 [What are call(), apply() and bind() in JavaScript — Amitav Mishra](https://jscurious.com/what-are-call-apply-and-bind-in-javascript/)
-- 📜 [Understanding 'this' binding in JavaScript — Yasemin Cidem](https://yasemincidem.medium.com/understanding-this-binding-in-javascript-86687397c76d)
+- 📜 [জাভাস্ক্রিপ্টের call(), bind() এবং apply() মেথডগুলোর সারসংক্ষেপ - অনিকেত কুদেল](https://levelup.gitconnected.com/grokking-call-apply-and-bind-methods-in-javascript-392351a4be8b)
+- 📜 [কীভাবে জাভাস্ক্রিপ্টে call(), bind() এবং apply() মেথডগুলো ব্যবহার করা হয় - নীলাদ্রি শেখর দত্ত](https://www.codementor.io/niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp)
+- 📜 [জাভাস্ক্রিপ্ট প্রফেশনালদের জন্য প্রয়োজনীয় Apply, Call এবং Bind মেথড - রিচার্ড বোভেল](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
+- 📜 [দিস (this) আবার কী জিনিস - সহজভাবে জাভাস্ক্রিপ্টের this কীওয়ার্ড, call, apply এবং bind - টাইলার ম্যাকগিনিস](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
+- 📜 [জাভাস্ক্রিপ্টঃ call(), bind() এবং apply() - ওমার গোল্ডবার্গ](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
+- 📜 [call / apply / bind এর মধ্যকার পার্থক্য - ইভান সিফ্রিম](https://medium.com/@ivansifrim/the-differences-between-call-apply-bind-276724bb825b)
+- 📜 [জাভাস্ক্রিপ্টের call, bind, apply আবার কী? - হৃতিক](https://dev.to/ritik_dev_js/what-the-hack-is-call-apply-bind-in-javascript-11ce)
+- 📜 [জাভাস্ক্রিপ্টের 'this' আয়ত্ত্বকরণঃ কলব্যাকসমূহ এবং bind(), apply(), call() - মিশেল জিয়েনো](https://thenewstack.io/mastering-javascript-callbacks-bind-apply-call/)
+- 📜 [জাভাস্ক্রিপ্টের apply, call, এবং bind একটি রন্ধনপ্রণালী দিয়ে ব্যাখ্যা - কেভিন কোনোনেনকো](https://dev.to/kbk0125/javascripts-apply-call-and-bind-explained-by-hosting-a-cookout-32jo)
+- 📜 [জাভাস্ক্রিপ্টে কখন এবং কীভাবে bind, call এবং apply ব্যবহার করতে হয় = Eigen X](https://www.eigenx.com/blog/https/mediumcom/eigen-x/how-and-when-to-use-bind-call-and-apply-in-javascript-77b6f42898fb)
+- 📜 [জাভাস্ক্রিপ্টের .bind() বনাম .apply এবং .call() - হ্যাক স্প্যারো](https://www.hacksparrow.com/javascript-bind-vs-apply-and-call.html)
+- 📜 [আমি আপনাকে ব্যাখ্যা করে বলছি (জাভাস্ক্রিপ্টের) 'this' কী - জ্যাসন ইয়ু](https://dev.to/ycmjason/let-me-explain-to-you-what-is-this-javascript-44ja)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের "this" কী-ওয়ার্ড - পবন](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের this কী-ওয়ার্ড এবং এর প্রসঙ্গে কীভাবে বুঝবো - লুকাস জিসদার-দুবে](https://medium.freecodecamp.org/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8)
+- 📜 [জাভাস্ক্রিপ্টের this টা কী জিনিস? - হৃদায়েশ শর্মা](https://dev.to/_hridaysharma/what-the-heck-is-this-in-javascript-37n1)
+- 📜 [জাভাস্ক্রিপ্টের this এবং bind - ব্রায়ান বারবার](https://dev.to/steelvoltage/this-and-bind-in-javascript-2pam)
+- 📜 [জাভাস্ক্রিপ্টে this ব্যবহার কালে মাথা ঠান্ডা রাখার ৩টি কৌশল - কার্ল](https://dev.to/canderson93/3-techniques-for-maintaining-your-sanity-using-this-in-javascript-3idf)
+- 📜 [জাভাস্ক্রিপ্টের this কী-ওয়ার্ড আয়ত্ত্বকরণ - আকাশ শ্রীভাস্তব](https://dev.to/aakashsr/mastering-the-javascript-this-keyword-4pfa)
+- 📜 [জাভাস্ক্রিপ্টের this বাইন্ডিং - ৪. নিউ বাইন্ডিং - স্পাইরস অ্যার্গালিয়াস](https://dev.to/sargalias/this-binding-in-javascript-4-new-binding-2p1n)
+- 📜 [জাভাস্ক্রিপ্টের this সম্পর্কে ছোট্ট একটি ভূমিকা - ন্যাটালি স্মিথ](https://dev.to/thatgalnatalie/a-quick-intro-to-this-in-javascript-2mhp)
+- 📜 [আমার বিড়ালকে জাভাস্ক্রিপ্টের this ব্যাখ্যা করে বুঝিয়ে বলা - আন্দ্রেই কে](https://dev.to/cat__logic/explaining-javascript-this-to-my-cat-1kig)
+- 📜 [জাভাস্ক্রিপ্টের "this" কী-ওয়ার্ডের সাথে কথাপোকথন - ক্যারেন ইফারিয়ান](https://dev.to/developerkaren/a-conversation-with-the-this-keyword-in-javascript-3j6g)
+- 📜 [জাভাস্ক্রিপ্টে call(), apply(), এবং bind() কাকে বলে - অমিতাভ মিশ্র](https://jscurious.com/what-are-call-apply-and-bind-in-javascript/)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের "this" বাইন্ডিং - ইয়াসেমিন চিদেম](https://yasemincidem.medium.com/understanding-this-binding-in-javascript-86687397c76d)
 
-### Videos
+### ভিডিওগুলো
 
-- 🎥 [JavaScript call, apply and bind — techsith](https://www.youtube.com/watch?v=c0mLRpw-9rI)
-- 🎥 [JavaScript Practical Applications of Call, Apply and Bind functions— techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
-- 🎥 [JavaScript (call, bind, apply) — curious aatma](https://www.youtube.com/watch?v=Uy0NOXLBraE)
-- 🎥 [Understanding Functions and 'this' In The World of ES2017 — Bryan Hughes](https://www.youtube.com/watch?v=AOSYY1_np_4)
-- 🎥 [bind and this - Object Creation in JavaScript - FunFunFunction](https://www.youtube.com/watch?v=GhbhD1HR5vk)
-- 🎥 [JS Function Methods call(), apply(), and bind() — Steve Griffith](https://www.youtube.com/watch?v=uBdH0iB1VDM)
+- 🎥 [জাভাস্ক্রিপ্টের call, apply, এবং bind — techsith](https://www.youtube.com/watch?v=c0mLRpw-9rI)
+- 🎥 [জাভাস্ক্রিপ্টের call, bind, এবং apply এর ব্যবহারিক কার্যক্রম — techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
+- 🎥 [জাভাস্ক্রিপ্টের (call, bind, apply) — curious aatma](https://www.youtube.com/watch?v=Uy0NOXLBraE)
+- 🎥 [ইস২০১৭ এর দুনিয়ায় সহজভাবে ফাংশন এবং "this" - ব্রায়ান হিউস](https://www.youtube.com/watch?v=AOSYY1_np_4)
+- 🎥 [bind এবং this - জাভাস্ক্রিপ্টে অবজেক্ট তৈরি - FunFunFunction](https://www.youtube.com/watch?v=GhbhD1HR5vk)
+- 🎥 [জাভাস্ক্রিপ্টের ফাংশনের মেথডসমুহ call(), apply(), এবং bind() - স্টিভ গ্রিফিথ](https://www.youtube.com/watch?v=uBdH0iB1VDM)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
