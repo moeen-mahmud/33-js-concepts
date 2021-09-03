@@ -519,49 +519,49 @@
 
 - 📜 [ইনহেরিটেন্স (Inheritance) এবং প্রটোটাইপ চেইন (Prototype Chain) — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 
-### Articles
+### আর্টিকেলসমূহ
 
-- 📜 [Javascript : Prototype vs Class — Valentin PARSY](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
-- 📜 [JavaScript engine fundamentals: optimizing prototypes — Mathias Bynens](https://mathiasbynens.be/notes/prototypes)
-- 📜 [JavaScript Prototype — NC Patro](https://codeburst.io/javascript-prototype-cb29d82b8809)
-- 📜 [Prototype in Javascript — Sandeep Ranjan](https://www.codementor.io/sandeepranjan2007/prototype-in-javascipt-knbve0lqo)
-- 📜 [Prototypes in JavaScript — Rupesh Mishra](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
-- 📜 [Prototype in JavaScript: it’s quirky, but here’s how it works — Pranav Jindal](https://medium.freecodecamp.org/prototype-in-js-busted-5547ec68872)
-- 📜 [Understanding JavaScript: Prototype and Inheritance — Alexander Kondov](https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2)
-- 📜 [Understanding Classes (ES5) and Prototypal Inheritance in JavaScript — Hridayesh Sharma](https://dev.to/_hridaysharma/understanding-classes-es5-and-prototypal-inheritance-in-javascript-n8d)
-- 📜 [prototype, **proto** and Prototypal inheritance in JavaScript — Varun Dey](https://dev.to/varundey/prototype-proto-and-prototypal-inheritance-in-javascript-2inl)
-- 📜 [Prototypal Inheritance — JavaScript.Info](https://javascript.info/prototype-inheritance)
-- 📜 [How To Work with Prototypes and Inheritance in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
-- 📜 [Master JavaScript Prototypes & Inheritance — Arnav Aggarwal](https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e)
-- 📜 [JavaScript’s Prototypal Inheritance Explained Using CSS — Nash Vail](https://medium.freecodecamp.org/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4)
-- 📜 [Prototypal Inheritance in JavaScript — Jannis Redmann](https://gist.github.com/derhuerst/a585c4916b1c361cc6f0)
-- 📜 [Demystifying ES6 Classes And Prototypal Inheritance ― Neo Ighodaro](https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance)
-- 📜 [Intro To Prototypal Inheritance — Dharani Jayakanthan](https://dev.to/danny/intro-to-prototypal-inheritance---js-9di)
-- 📜 [Let’s Build Prototypal Inheritance in JS — var-che](https://dev.to/varche/let-s-build-prototypal-inheritance-in-js-56mm)
-- 📜 [Objects, Prototypes and Classes in JavaScript — Atta](https://dev.to/attacomsian/objects-prototypes-and-classes-in-javascript-3i9b)
-- 📜 [The magical world of JavaScript prototypes — Belén](https://dev.to/ladybenko/the-magical-world-of-javascript-prototypes-1mhg)
-- 📜 [Understanding Prototypal Inheritance In JavaScript — Lawrence Eagles](https://dev.to/lawrence_eagles/understanding-prototypal-inheritance-in-javascript-4f31#chp-4)
-- 📜 [Objects and Prototypes in JavaScript — Irena Popova](https://dev.to/irenejpopova/objects-and-prototypes-in-javascript-2eie)
+- 📜 [জাভাস্ক্রিপ্টঃ প্রটোটাইপ (Prototype) বনাম ক্লাস (Class) - ভ্যালেন্টিন পারসি](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
+- 📜 [জাভাস্ক্রিপ্ট ইঞ্জিনের সম্পর্কিত মৌলিক জ্ঞানঃ প্রটোটাইপের অপটিমাইজেশন (Optimizing Prototypes)](https://mathiasbynens.be/notes/prototypes)
+- 📜 [জাভাস্ক্রিপ্টের প্রটোটাইপ (Prototype) — এন.সি পাত্র](https://codeburst.io/javascript-prototype-cb29d82b8809)
+- 📜 [জাভাস্ক্রিপ্টের প্রটোটাইপ (Prototype) — সন্দ্বীপ রঞ্জন](https://www.codementor.io/sandeepranjan2007/prototype-in-javascipt-knbve0lqo)
+- 📜 [জাভাস্ক্রিপ্টের প্রটোটাইপ (Prototype) — রুপেশ মিশ্র](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
+- 📜 [জাভাস্ক্রিপ্টের প্রটোটাইপ (Prototype): এটি ঝামেলাপূর্ণ, কিন্তু এটি যেভাবে কাজ করে - প্রণব জিন্দল](https://medium.freecodecamp.org/prototype-in-js-busted-5547ec68872)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টঃ প্রটোটাইপ (Prototype) এবং ইনহেরিটেন্স (Inheritance) - আলেক্সান্ডার কোন্ডভ](https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2)
+- 📜 [সহজভাবে ক্লাস (Classes ES5) এবং প্রটোটাইপাল ইনহেরিটেন্স (Prototypal Inheritance) - হৃদায়েশ শর্মা](https://dev.to/_hridaysharma/understanding-classes-es5-and-prototypal-inheritance-in-javascript-n8d)
+- 📜 [জাভাস্ক্রিপ্টের প্রটোটাইপ **proto** এবং প্রটোটাইপাল ইনহেরিটেন্স (Prototypal Inheritance) - বরুণ দে](https://dev.to/varundey/prototype-proto-and-prototypal-inheritance-in-javascript-2inl)
+- 📜 [প্রটোটাইপাল ইনহেরিটেন্স (Prototypal Inheritance) — JavaScript.Info](https://javascript.info/prototype-inheritance)
+- 📜 [প্রটোটাইপস (Prototypes) এবং ইনহেরিটেন্স (Inheritance) নিয়ে কীভাবে কাজ করতে হয় - তানিয়া রাশিয়া](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+- 📜 [জাভাস্ক্রিপ্টের প্রটোটাইপস (Prototypes) এবং ইনহেরিটেন্স (Inheritance) আয়ত্ত্বকরণ - অর্ণব আগারওয়াল](https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e)
+- 📜 [সিএসএস (CSS) দিয়ে জাভস্ক্রিপ্টের প্রটোটাইপাল ইনহেরিটেন্সের (Prototypal Inheritance) ব্যাখ্যা - ন্যাশ ভেইল](https://medium.freecodecamp.org/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4)
+- 📜 [জাভাস্ক্রিপ্টের প্রটোটাইপাল ইনহেরিটেন্স (Prototypal Inheritance) - জ্যানিস রেডম্যান](https://gist.github.com/derhuerst/a585c4916b1c361cc6f0)
+- 📜 [সহজভাবে ইএস৬ এর ক্লাস (Classes) এবং প্রটোটাইপাল ইনহেরিটেন্স (Prototypal Inheritance) - নিও ইগোড্যারো](https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance)
+- 📜 [প্রটোটাইপাল ইনহেরিটেন্স (Prototypal Inheritance) এর সংক্ষিপ্ত সূচনা - ধরণী জয়কান্তন](https://dev.to/danny/intro-to-prototypal-inheritance---js-9di)
+- 📜 [চলো, জাভাস্ক্রিপ্টে প্রটোটাইপাল ইনহেরিটেন্স (Prototypal Inheritance) তৈরি করি - var-che](https://dev.to/varche/let-s-build-prototypal-inheritance-in-js-56mm)
+- 📜 [জাভাস্ক্রিপ্টের অবজেক্ট (Objects), প্রটোটাইপস (Prototypes) এবং ক্লাস (Classes) - অ্যাটা](https://dev.to/attacomsian/objects-prototypes-and-classes-in-javascript-3i9b)
+- 📜 [জাভাস্ক্রিপ্ট প্রটোটাইপ (Prototypes) এর জাদুকরী দুনিয়া - ব্যালেন](https://dev.to/ladybenko/the-magical-world-of-javascript-prototypes-1mhg)
+- 📜 [সহজভাবে জাভাস্ক্রিপ্টের প্রটোটাইপাল ইনহেরিটেন্স (Prototypal Inheritance) - লরেন্স ইগলস](https://dev.to/lawrence_eagles/understanding-prototypal-inheritance-in-javascript-4f31#chp-4)
+- 📜 [জাভাস্ক্রিপ্টের অবজেক্ট (Object) এবং প্রটোটাইপসমূহ (Prototypes) - ইরিনা পপোভা](https://dev.to/irenejpopova/objects-and-prototypes-in-javascript-2eie)
 
-### Videos
+### ভিডিওসমূহ
 
-- 🎥 [Javascript Prototype Inheritance — Avelx](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
-- 🎥 [JavaScript Prototype Inheritance Explained pt. I — techsith](https://www.youtube.com/watch?v=7oNWNlMrkpc)
-- 🎥 [JavaScript Prototype Inheritance Explained pt. II — techsith](https://www.youtube.com/watch?v=uIlj6_z_wL8)
-- 🎥 [JavaScript Prototype Inheritance Explained — Kyle Robinson](https://www.youtube.com/watch?v=qMO-LTOrJaE)
-- 🎥 [Advanced Javascript - Prototypal Inheritance In 1 Minute](https://www.youtube.com/watch?v=G6l5CHl67HQ)
-- 🎥 [An Overview Of Classical Javascript Classes and Prototypal Inheritance — Pentacode](https://www.youtube.com/watch?v=phwzuiJJPpQ)
-- 🎥 [Object Oriented JavaScript - Prototype — The Net Ninja](https://www.youtube.com/watch?v=4jb4AYEyhRc)
-- 🎥 [Prototype in JavaScript — kudvenkat](https://www.youtube.com/watch?v=2rkEbcptR64)
-- 🎥 [JavaScript Using Prototypes — O'Reilly](https://www.youtube.com/watch?v=oCwCcNvaXAQ)
-- 🎥 [A Beginner's Guide to Javascript's Prototype — Tyler Mcginnis](https://www.youtube.com/watch?v=XskMWBXNbp0)
-- 🎥 [Prototypes in Javascript - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
+- 🎥 [সহজভাবে জাভাস্ক্রিপ্টের প্রটোটাইপ ইনহেরিটেন্স (Prototype Inheritance) — Avelx](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
+- 🎥 [সহজভাবে জাভাস্ক্রিপ্টের প্রটোটাইপ ইনহেরিটেন্স (Prototype Inheritance) এর ব্যাখ্যা পার্ট ১ — techsith](https://www.youtube.com/watch?v=7oNWNlMrkpc)
+- 🎥 [সহজভাবে জাভাস্ক্রিপ্টের প্রটোটাইপ ইনহেরিটেন্স (Prototype Inheritance) এর ব্যাখ্যা পার্ট ২ — techsith](https://www.youtube.com/watch?v=uIlj6_z_wL8)
+- 🎥 [সহজভাবে জাভাস্ক্রিপ্টের প্রটোটাইপ ইনহেরিটেন্স (Prototype Inheritance) এর ব্যাখ্যা - কাইল রবিনসন](https://www.youtube.com/watch?v=qMO-LTOrJaE)
+- 🎥 [অ্যাডভান্সড জাভাস্ক্রিপ্ট - এক মিনিটে জাভাস্ক্রিপ্টের প্রটোটাইপ ইনহেরিটেন্স (Prototype Inheritance) এর ব্যাখ্যা](https://www.youtube.com/watch?v=G6l5CHl67HQ)
+- 🎥 [জাভাস্ক্রিপ্টের ক্লাস (Class) এবং প্রটোটাইপাল ইনহেরিটেন্স (Prototypal Inheritance) এর একটি ক্ল্যাসিক্যাল ওভারভিউ — Pentacode](https://www.youtube.com/watch?v=phwzuiJJPpQ)
+- 🎥 [অবজেক্ট অরিয়েন্টেড জাভাস্ক্রিপ্ট - প্রটোটাইপ (Prototype) — The Net Ninja](https://www.youtube.com/watch?v=4jb4AYEyhRc)
+- 🎥 [জাভাস্ক্রিপ্টের প্রটোটাইপস — kudvenkat](https://www.youtube.com/watch?v=2rkEbcptR64)
+- 🎥 [জাভাস্ক্রিপ্টে প্রটোটাইপের (prototype) এর ব্যবহার — O'Reilly](https://www.youtube.com/watch?v=oCwCcNvaXAQ)
+- 🎥 [জাভাস্ক্রিপ্টের প্রটোটাইপে (Prototype) সম্পর্কিত একটি বিগিনার গাইড - টাইলার ম্যাকগিনিস](https://www.youtube.com/watch?v=XskMWBXNbp0)
+- 🎥 [জাভস্ক্রিপ্টের প্রটোটাইপসমূহ (Prototypes) - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
 
 ### Books
 
-- [You Don't Know JS, 1st Edition: this & Object Prototypes — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+- [ইউ ডোন্ট নো জাভাস্ক্রিপ্ট, প্রথম প্রকাশনঃ this এবং Object Prototypes - কাইল সিম্পসন](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ উপরে ফিরে যান](#table-of-contents)**
 
 ---
 
